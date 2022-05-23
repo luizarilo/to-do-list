@@ -1,0 +1,16 @@
+li {
+    list-style-type: none;
+    color: #2484BF;
+  }
+
+.card{
+    background-color:#274659 ;
+}
+
+.card-header-title{
+    color: #f2b705;
+}
+
+.button{
+     background-color: #f2b705;
+}
