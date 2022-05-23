@@ -1,3 +1,11 @@
+.containers{
+    width: 600px; 
+    justify-content: left;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+
 li {
     list-style-type: none;
     color: #2484BF;
